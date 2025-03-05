@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Franky de Armas and I'm a web developer and database specialist, from FDSU</h2>
+<h2 align="left">Hi 👋! My name is Franky de Armas and I'm a web developer and database specialist.</h2>
 
 ###
 
