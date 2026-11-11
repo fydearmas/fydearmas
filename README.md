@@ -1,6 +1,6 @@
 # Hi 👋, I'm Frank Yasel de Armas Mora
 
-### Senior Software Engineer | Data Engineering, Automation & AI
+### Software Engineer | Data Engineering, Automation & AI
 Passionate Computer Engineer with 10+ years of experience across the full software development lifecycle (SDLC). Specialized in architecting robust backend systems, advanced PostgreSQL optimization, ETL pipelines, and intelligent workflow automation (n8n, LLMs & AI Agents).
 
 ---
